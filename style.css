@@ -1,0 +1,14 @@
+body{
+margin: 0%;
+background-color: #deedf0;
+}
+
+header{background-color: #f9dfdc;
+COLOR:#b2b8a3;}
+
+header nav{float: right;}
+
+header nav ul li {display: inline-block;}
+header nav ul li a{text-decoration: none;
+margin-left: 20px;}
+#div{display: inline-block;}
